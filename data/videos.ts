@@ -70,6 +70,23 @@ export const videos: Video[] = [
     featured: true
   },
   {
+    id: "111",
+    title: "Seetha Payanam (2026) Hindi Dubbed",
+    slug: generateSlug("Seetha Payanam (2026) Hindi Dubbed"),
+    videoUrl: "https://youtu.be/72czhVw48s0",
+    downloadUrl: "https://youtu.be/72czhVw48s0",
+    poster: "https://m.media-amazon.com/images/M/MV5BNWFiN2I5YWEtNTkyOS00NTE1LWE5NDEtMTNhMzY3ZmRkOWNiXkEyXkFqcGc@._V1_FMjpg_UY600_.jpg",
+    description: "Chef Seetha survives an accident and seeks to thank her saviors. She falls for stranger Abhishek, who hides a secret. When truth surfaces, she must choose between love, honesty, and her future.",
+    category: "South Indian",
+    year: 2026,
+    duration: "2h 30m",
+    rating: 5.6,
+    genre: ["Action", "Drama"],
+    language: "Telugu",
+    quality: "4K",
+    featured: true
+  },
+  {
     "id": "1",
     "title": "Ramayan EP 20 - श्रवण कुमार प्रसंग | दशरथ मरण | HQ Widescreen | English Subtitles",
     slug: generateSlug("Ramayan EP 20 - श्रवण कुमार प्रसंग | दशरथ मरण | HQ Widescreen | English Subtitles"),
