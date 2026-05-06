@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # v0-movie-listing-website-vq
 
 This is a [Next.js](https://nextjs.org) project bootstrapped with [v0](https://v0.app).
@@ -34,7 +33,5 @@ To learn more, take a look at the following resources:
 - [v0 Documentation](https://v0.app/docs) - learn about v0 and how to use it.
 
 <a href="https://v0.app/chat/api/kiro/clone/lalit7704/v0-movie-listing-website-vq" alt="Open in Kiro"><img src="https://pdgvvgmkdvyeydso.public.blob.vercel-storage.com/open%20in%20kiro.svg?sanitize=true" /></a>
-=======
 # onemovie
 A modern movie streaming and discovery platform built with React/Next.js. Features categorized content like movies, web series, and cartoons with a smooth UI and optimized performance.
->>>>>>> 13ff531f3c006158622834c5f4e94cf96f914e4a
